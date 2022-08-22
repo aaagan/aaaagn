@@ -1,6 +1,6 @@
 
 <p align="center">
-<samp>👋 Hi! I am agan.</samp>
+<!-- <samp>👋 Hi! I am agan.</samp> -->
 
 <h4>Top languages</h4>
 
