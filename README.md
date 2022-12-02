@@ -8,6 +8,6 @@
 </a>
 
 <a>
-<img src="https://github-readme-stats.vercel.app/api?username=agan-agan&theme=light&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=lattelu&theme=light&show_icons=true" />
 </a>
 </p>
